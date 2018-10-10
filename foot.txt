@@ -5,3 +5,6 @@ fore
 five
 six
 nine
+seven
+eight
+ten
